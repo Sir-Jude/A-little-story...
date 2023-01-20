@@ -1,6 +1,6 @@
 # Level one
-print("You wakes up in a dirty cell.")
 next_level = False
+print("You wakes up in a dirty cell.")
 print("You can move around (type \"move\")")
 print("You can look around (type \"look\")")
 print()
